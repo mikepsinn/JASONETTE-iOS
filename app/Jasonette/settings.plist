@@ -7,7 +7,7 @@
 	<key>client_secret</key>
 	<string></string>
 	<key>url</key>
-	<string>https://mikepsinn.github.io/Jasonpedia/webcontainer/agent/hybrid-moodimodoapp.json</string>
+	<string>https://mikepsinn.github.io/Jasonpedia/webcontainer/agent/hybrid-medimodo.json</string>
 	<key>loading</key>
 	<false/>
 	<key>launch</key>
